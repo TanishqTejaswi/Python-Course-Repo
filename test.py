@@ -1,4 +1,4 @@
 import numpy
 
 def hello():
-    prtin("world")
+    print("world")
